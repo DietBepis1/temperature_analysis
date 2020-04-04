@@ -6,3 +6,6 @@ This project is doing data visualization on temperature data in two regions, Sit
 
 4/2/20
     -Short update today. Fixed my int issue. Turns out I was using the wrong test file. Whoops :)
+
+4/3/20
+    -Finished my high and low plotting of temperatures in Sitka, Al.
