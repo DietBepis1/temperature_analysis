@@ -12,3 +12,6 @@ This project is doing data visualization on temperature data in two regions, Sit
 
 4/4/20
     -Started exploring earthquake data stored in JSON files. Will eventually have plotted on a world map
+
+4/6/20
+    -Finished the global earthquakes USGS data plotting. I think these turned out really cool.
